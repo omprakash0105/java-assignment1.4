@@ -1,0 +1,92 @@
+package practics.example;
+
+public class assigment4 {
+
+	public static void main(String[] args) {
+		int a=65;
+		int b=66;
+		int c=67;
+		int d=68;
+		int e=69;
+		int f=70;
+		int g=71;
+		int h=72;
+		int i=73;
+		int j=74;
+		int k=75;
+		int l=76;
+		int m=77;
+		int n=78;
+		int o=79;
+		int p=80;
+		int q=81;
+		int r=82;
+		int s=83;
+		int t=84;
+		int u=85;
+		int v=86;
+		int w=87;
+		int x=88;
+		int y=89;
+		int z=90;
+	
+		
+
+		
+		char a1=(char)a;
+		char b1=(char)b;
+		char c1=(char)c;
+		char d1=(char)d;
+		char e1=(char)e;
+		char f1=(char)f;
+		char g1=(char)g;
+		char h1=(char)h;
+		char i1=(char)i;
+		char j1=(char)j;
+		char k1=(char)k;
+		char l1=(char)l;
+		char m1=(char)m;
+		char n1=(char)n;
+		char o1=(char)o;
+		char p1=(char)p;
+		char q1=(char)q;
+		char r1=(char)r;
+		char s1=(char)s;
+		char t1=(char)t;
+		char u1=(char)u;
+		char v1=(char)v;
+		char w1=(char)w;
+		char x1=(char)x;
+		char y1=(char)y;
+		char z1=(char)z;
+		
+		System.out.println(a + "-" + a1);
+		System.out.println(b + "-" + b1);
+		System.out.println(c + "-" + c1);		
+		System.out.println(d + "-" + d1);
+		System.out.println(e + "-" + e1);
+		System.out.println(f + "-" + f1);
+		System.out.println(g + "-" + g1);		
+		System.out.println(h + "-" + h1);		
+		System.out.println(i + "-" + i1);
+		System.out.println(j + "-" + j1);
+		System.out.println(k + "-" + k1);		
+		System.out.println(l + "-" + l1);		
+		System.out.println(m + "-" + m1);
+		System.out.println(n + "-" + n1);
+		System.out.println(o + "-" + o1);		
+		System.out.println(p + "-" + p1);		
+		System.out.println(q + "-" + q1);
+		System.out.println(r + "-" + r1);
+		System.out.println(s + "-" + s1);		
+		System.out.println(t + "-" + t1);		
+		System.out.println(u + "-" + u1);
+		System.out.println(v + "-" + v1);
+		System.out.println(w + "-" + w1);		
+		System.out.println(x + "-" + x1);
+		System.out.println(y + "-" + y1);
+		System.out.println(z + "-" + z1);
+
+		
+		
+	}
